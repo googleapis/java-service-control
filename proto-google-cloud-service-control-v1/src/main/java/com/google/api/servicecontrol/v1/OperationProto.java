@@ -46,8 +46,7 @@ public final class OperationProto {
     java.lang.String[] descriptorData = {
       "\n"
           + ",google/api/servicecontrol/v1/operation"
-          + ".proto\022\034google.api.servicecontrol.v1\032,go"
-          + "ogle/api/servicecontrol/v1/log_entry.proto\032/google/api/servicecontrol/v1/metric_value.proto\032\031google/protobuf/any.proto\032\037google/protobuf/timestamp.proto\"\271\004\n"
+          + ".proto\022\034google.api.servicecontrol.v1\032,google/api/servicecontrol/v1/log_entry.proto\032/google/api/servicecontrol/v1/metric_value.proto\032\031google/protobuf/any.proto\032\037google/protobuf/timestamp.proto\"\271\004\n"
           + "\tOperation\022\024\n"
           + "\014operation_id\030\001 \001(\t\022\026\n"
           + "\016operation_name\030\002 \001(\t\022\023\n"
