@@ -66,7 +66,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>grpc-google-cloud-service-control-v2</artifactId>
-        <version>1.1.9-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-service-control-v2:current} -->
+        <version>1.1.10-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-service-control-v2:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
@@ -76,7 +76,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-service-control-v2</artifactId>
-        <version>1.1.9-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-service-control-v2:current} -->
+        <version>1.1.10-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-service-control-v2:current} -->
       </dependency>
     </dependencies>
   </dependencyManagement>
