@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/googleapis/java-service-control/compare/v1.3.0...v1.3.1) (2022-07-19)
+
+
+### Bug Fixes
+
+* enable longpaths support for windows test ([#1485](https://github.com/googleapis/java-service-control/issues/1485)) ([#195](https://github.com/googleapis/java-service-control/issues/195)) ([74db573](https://github.com/googleapis/java-service-control/commit/74db573d1d4d4f21b298fe3c485f8f67e2658f8c))
+
 ## [1.3.0](https://github.com/googleapis/java-service-control/compare/v1.2.0...v1.3.0) (2022-07-01)
 
 
