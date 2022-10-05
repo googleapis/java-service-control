@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/googleapis/java-service-control/compare/v1.3.4...v1.3.5) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([ac16ca7](https://github.com/googleapis/java-service-control/commit/ac16ca78cb260950084ce549abff7c184e89acb5))
+
 ## [1.3.4](https://github.com/googleapis/java-service-control/compare/v1.3.3...v1.3.4) (2022-10-03)
 
 
